@@ -1,0 +1,19 @@
+{
+  "name": "srkbot",
+  "version": "1.0.0",
+  "description": "bot for SRK's darshan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavgharmalkar/SRKBot.git"
+  },
+  "author": "Madhav Gharmalkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavgharmalkar/SRKBot/issues"
+  },
+  "homepage": "https://github.com/madhavgharmalkar/SRKBot#readme"
+}
